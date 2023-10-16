@@ -1,2 +1,2 @@
-# UeslinPoderoso2
+# UeslinPoderoso
 Apenas para projetos escolares
